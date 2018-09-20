@@ -97,7 +97,7 @@ public class Main extends JFrame{
         ImageIcon youWinpic = new ImageIcon(Main.class.getResource("/resources/congrats.gif"));
         Image youWin = youWinpic.getImage();
 
-        ImageIcon youLosepic = new ImageIcon(Main.class.getResource("/resources/youLose.gif"));
+        ImageIcon youLosepic = new ImageIcon(Main.class.getResource("/resources/youlose.gif"));
         Image youLose = youLosepic.getImage();
 
         Rectangle carRect = new Rectangle(carSizeXY[0], carSizeXY[1]);
